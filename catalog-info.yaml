@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-backstage-3
+  annotations:
+    github.com/project-slug: jbatu-deloitte/test-backstage-3
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
